@@ -158,8 +158,3 @@ Benchmarked against:
 
 ---
 *Shikhar Chaudhary, IIT Kanpur*
-**Purpose:** Policy Blueprint for Indian Railways UX Governance Reform
-
----
-
-Would you like me to make this version **formatted for GitHub** (with collapsible sections, emojis, and badge-style headers)?
